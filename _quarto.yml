@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Academic Portfolio"
+  favicon: images/ColgateC.png
+  sidebar:
+    logo: images/ColgateSeal.png
+    style: "docked"
+    collapse-level: 1
+    search: false
+    contents:
+      - href: index.qmd
+        text: " Home"
+        icon: house
+      - href: about.qmd
+        text: " About"
+        icon: person
+      # MATH 240
+      - section: "Computational Statistics"
+        contents:
+          - text: "Example Document"
+            href: Example/Example.qmd
+  page-footer:
+    left: "© 2026 Colgate University Student Portfolio"
+    right: "[GitHub Source](https://github.com/WilliamCipolli)"
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+execute:
+  freeze: auto

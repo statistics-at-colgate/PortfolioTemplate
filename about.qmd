@@ -1,0 +1,30 @@
+---
+title: "About Me"
+about:
+  template: solana    # Options: trestles, jolla, solana, marquee, broadside
+  image: images/me.jpg 
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/user
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/user
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/user
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/user
+    - icon: envelope
+      text: Email
+      href: mailto:user@colgate.edu
+---
+
+## Education
+
+I am a student at Colgate University studying Statistics and Data Science. My anticipated graduation date is 20xx.
+
+## Technical Skills
+* **Languages:** R
+* **Tools:** Positron, Quarto, Git/GitHub, LaTeX

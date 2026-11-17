@@ -1,0 +1,74 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Academic Portfolio",
+    "section": "",
+    "text": "Welcome to my portfolio website! Here you will find write-ups and analysis projects completed across my courses:\n\nComputational Statistics (MATH 240): R programming, data wrangling, and simulation models.\n\nUse the sidebar menu to navigate through my coursework.",
+    "crumbs": [
+      " Home"
+    ]
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
+    "title": "Academic Portfolio",
+    "section": "",
+    "text": "Welcome to my portfolio website! Here you will find write-ups and analysis projects completed across my courses:\n\nComputational Statistics (MATH 240): R programming, data wrangling, and simulation models.\n\nUse the sidebar menu to navigate through my coursework.",
+    "crumbs": [
+      " Home"
+    ]
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a student at Colgate University studying Statistics and Data Science. My anticipated graduation date is 20xx.",
+    "crumbs": [
+      " About"
+    ]
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "",
+    "text": "I am a student at Colgate University studying Statistics and Data Science. My anticipated graduation date is 20xx.",
+    "crumbs": [
+      " About"
+    ]
+  },
+  {
+    "objectID": "about.html#technical-skills",
+    "href": "about.html#technical-skills",
+    "title": "About Me",
+    "section": "Technical Skills",
+    "text": "Technical Skills\n\nLanguages: R\nTools: Positron, Quarto, Git/GitHub, LaTeX",
+    "crumbs": [
+      " About"
+    ]
+  },
+  {
+    "objectID": "Example/Example.html",
+    "href": "Example/Example.html",
+    "title": "Example Document",
+    "section": "",
+    "text": "This is a section\n\n\nThis is a subsection.",
+    "crumbs": [
+      "Computational Statistics",
+      "Example Document"
+    ]
+  },
+  {
+    "objectID": "Example/Example.html#subsection",
+    "href": "Example/Example.html#subsection",
+    "title": "Example Document",
+    "section": "",
+    "text": "This is a subsection.",
+    "crumbs": [
+      "Computational Statistics",
+      "Example Document"
+    ]
+  }
+]
